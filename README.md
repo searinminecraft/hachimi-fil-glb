@@ -3,7 +3,7 @@ This is an effort of mine to translate Umamusume: Pretty Derby Global to the Fil
 Most of this is incomplete, but maybe soon it'll be done
 
 # Contribute
-If you know your way of translating, you can go to [https://hachimi.noccu.art/](Hachimi website)
+If you know your way of translating, you can go to [Hachimi website](https://hachimi.noccu.art)
 for guidance on how to get started.
 
 # License
