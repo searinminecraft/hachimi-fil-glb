@@ -1,9 +1,9 @@
-# :flag_ph: Fan-made Filipino Translations for Umamusume (Global)
-This is an effort of mine to translate Umamusume: Pretty Derby Global to the Filipino language.
+# Fan-made Filipino Translations for ~~addicting~~ honse game (Global)
+This is an effort of mine to translate the honse game to the Filipino language.
 Most of this is incomplete, but maybe soon it'll be done
 
 # Contribute
-If you know your way of translating, you can go to [Hachimi website](https://hachimi.noccu.art)
+If you know your way of translating, you can go to [the chimi documentation](https://hachimi.noccu.art)
 for guidance on how to get started.
 
 # License
