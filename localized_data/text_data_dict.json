@@ -538,5 +538,25 @@
         "107101": "Pirasong Bitwin ni Mejiro Ardan",
         "107201": "Pirasong Bitwin ni Yaeno Muteki",
         "107401": "Pirasong Bitwin ni Mejiro Bright"
+    },
+    "166": {
+        "1001": "Nagiging excited at pupunta agad sa kutsina pag may marinig siyang pagluluto",
+        "1002": "Wala siyang marinig minsan kapag pinaginiisipan niya ang pagkatakbo",
+        "1003": "Hindi nabibigong pakinggan ang panuri o ang boses ni Prez",
+        "1004": "Gustong sumayaw kapag may marinig siyang Eurobeat",
+        "1005": "May perpektong pitch",
+        "1006": "Nalalaman ang mga tao mula sa kanyang pinagmulang probinsya mula sa kanilang hiyaw",
+        "1007": "Tinatakpan niya ang mga tainga ng mga tao at tinatanong \"Sino ba?\"",
+        "1008": "Naginging excited kapag hawakan o kalabitin",
+        "1009": "Pinagliliban ang kanyang totoong nararamdaman",
+        "1010": "Tatakbo siya agad kung marinig nya ang salitang \"party\""
+    },
+    "25": {
+        "48": "Nakukuha sa pag-convert ng mga R na Support Card sa Imbakan ng Support Card",
+        "49": "Nakukuha sa pag-convert ng mga SR na Support Card sa Imbakan ng Support Card",
+        "50": "Nakukuha sa pag-convert ng mga SSR na Support Card sa Imbakan ng Support Card",
+        "57": "Nakukuha sa pag-convert ng mga Pirasong Bitwin sa Imbakan ng Pirasong Bitwin. Nakukuha rin kapag mag-expire ang Scout Exchange Points.",
+        "59": "Nakukuha sa Career o Pang-araw-araw na Karera.",
+        "98": "Nakukuha mula sa Team Trials o pagpapahiram ng mga Support Card."
     }
 }
