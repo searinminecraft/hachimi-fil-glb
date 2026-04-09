@@ -7,7 +7,7 @@ you should know first:
 ## Tools
 You should get familiar on how to translate Hachimi-based translation
 projects. [This page][1] can help you get started. Of course, you
-need to have Umamusume installed on your system to use it.
+need to have UM:PD installed on your system to use it.
 
 ## Machine Translation
 It's okay for you to use machine translation if you get stuck, but
