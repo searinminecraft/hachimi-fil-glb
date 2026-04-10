@@ -1,0 +1,35 @@
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "localized_data/**"
+
+jobs:
+  update_index:
+    runs-on: codeberg-tiny
+    permissions:
+      contents: write
+
+    steps:
+      - uses: https://code.forgejo.org/actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - uses: https://code.forgejo.org/actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Setup Pre-requesites
+        run: |
+          pip install -U pip
+          pip install -r requirements.txt
+        
+      - name: Update Index
+        run: |
+          python gen_index.py
+      
+      - uses: https://github.com/stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update index
+          file_pattern: 'index.json'
