@@ -4,6 +4,7 @@ on:
       - main
     paths:
       - "localized_data/**"
+      - "index_base.json"
 
 jobs:
   update_index:
