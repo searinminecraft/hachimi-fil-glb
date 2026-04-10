@@ -1,0 +1,32 @@
+{
+  "base_url": "https://codeberg.org/kita/hachimi-fil-glb/raw/branch/main/localized-data",
+  "zip_url": "https://codeberg.org/kita/hachimi-fil-glb/archive/main.zip",
+  "zip_dir": "hachimi-fil-glb",
+  "files": [
+    {
+      "path": "character_system_text_dict.json",
+      "hash": "3b272285d7895ebf1d89ad659a07a666a029d55e8f4258d2a05a183319301261",
+      "size": 38903
+    },
+    {
+      "path": "config.json",
+      "hash": "a96ae73bd9f5be3354c0429e028427a4ef5917e45ebedcd61f7e5e5b724aaa2d",
+      "size": 708
+    },
+    {
+      "path": "localize_dict.json",
+      "hash": "55cd3be905255f5c6ba212e2ef85f11d15ef442ee777d03188ec2c9393ba3b7a",
+      "size": 73861
+    },
+    {
+      "path": "race_jikkyo_comment_dict.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "text_data_dict.json",
+      "hash": "5f6d99c72f1203ef101fe495c52c90c00559477085cce99071ccd1fd3ecca0ef",
+      "size": 33011
+    }
+  ]
+}
