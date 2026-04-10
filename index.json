@@ -1,7 +1,7 @@
 {
   "base_url": "https://codeberg.org/kita/hachimi-fil-glb/raw/branch/main/localized_data",
   "zip_url": "https://codeberg.org/kita/hachimi-fil-glb/archive/main.zip",
-  "zip_dir": "hachimi-fil-glb",
+  "zip_dir": "hachimi-fil-glb/localized_data",
   "files": [
     {
       "path": "character_system_text_dict.json",
