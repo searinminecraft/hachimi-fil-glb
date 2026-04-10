@@ -12,24 +12,29 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout
       - uses: https://code.forgejo.org/actions/checkout@v4
         with:
           fetch-depth: 0
       
+      - name: Setup Python
       - uses: https://code.forgejo.org/actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Setup Pre-requesites
         run: |
-          pip install -U pip
           pip install -r requirements.txt
         
       - name: Update Index
         run: |
           python gen_index.py
       
+      - name: Push to repository
       - uses: https://github.com/stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update index
+          commit_author: Vyxie <kitakita@disroot.org>
+          commit_user_name: Mambo Ikuyo
+          commit_user_email: searinminecraft@outlook.ph
           file_pattern: 'index.json'
