@@ -12,12 +12,10 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
       - uses: https://code.forgejo.org/actions/checkout@v4
         with:
           fetch-depth: 0
       
-      - name: Setup Python
       - uses: https://code.forgejo.org/actions/setup-python@v5
         with:
           python-version: "3.12"
