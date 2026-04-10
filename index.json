@@ -5,8 +5,8 @@
   "files": [
     {
       "path": "character_system_text_dict.json",
-      "hash": "3b272285d7895ebf1d89ad659a07a666a029d55e8f4258d2a05a183319301261",
-      "size": 38903
+      "hash": "8f7583727b3f732a135b990dab892ed60f4902408ef1c001165f7effde6487e7",
+      "size": 40716
     },
     {
       "path": "config.json",
@@ -15,8 +15,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "55cd3be905255f5c6ba212e2ef85f11d15ef442ee777d03188ec2c9393ba3b7a",
-      "size": 73861
+      "hash": "3e16d0a5d35d8a81c33a4e6d54073c8d83444d2583509e7ed5a6798e7b23f922",
+      "size": 74051
     },
     {
       "path": "race_jikkyo_comment_dict.json",
