@@ -4,6 +4,11 @@
   "zip_dir": "hachimi-fil-glb/localized_data",
   "files": [
     {
+      "path": "assets/lyrics/m1026_lyrics.json",
+      "hash": "aa8bf65e2986aafabfd41773a188954eff8a31888ded709971fd433157586392",
+      "size": 735
+    },
+    {
       "path": "character_system_text_dict.json",
       "hash": "8f7583727b3f732a135b990dab892ed60f4902408ef1c001165f7effde6487e7",
       "size": 40716
@@ -25,8 +30,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "5f6d99c72f1203ef101fe495c52c90c00559477085cce99071ccd1fd3ecca0ef",
-      "size": 33011
+      "hash": "37f24974e3eccdc8605074722fbf8b1b3eb0dbab501ad6edbbf18611820c579e",
+      "size": 33065
     }
   ]
 }
