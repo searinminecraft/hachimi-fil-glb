@@ -4,9 +4,14 @@
   "zip_dir": "hachimi-fil-glb/localized_data",
   "files": [
     {
+      "path": "assets/lyrics/m1001_lyrics.json",
+      "hash": "99e052ab91a0d19e5b58ef3a14f9cc1f09a78d317d1c6f14051610bd7a1ceb47",
+      "size": 2382
+    },
+    {
       "path": "assets/lyrics/m1026_lyrics.json",
-      "hash": "aa8bf65e2986aafabfd41773a188954eff8a31888ded709971fd433157586392",
-      "size": 735
+      "hash": "14340c20fa4a2d439337c84123b4e4da58d121c7c1c1bfa1faf90518060552fa",
+      "size": 645
     },
     {
       "path": "character_system_text_dict.json",
