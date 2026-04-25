@@ -9,6 +9,11 @@
       "size": 2382
     },
     {
+      "path": "assets/lyrics/m1006_lyrics.json",
+      "hash": "ab51bc541e6d1b55d1315c4042c077e9df060696813156f48f3593bdabe753d1",
+      "size": 1669
+    },
+    {
       "path": "assets/lyrics/m1026_lyrics.json",
       "hash": "14340c20fa4a2d439337c84123b4e4da58d121c7c1c1bfa1faf90518060552fa",
       "size": 645
@@ -35,8 +40,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "37f24974e3eccdc8605074722fbf8b1b3eb0dbab501ad6edbbf18611820c579e",
-      "size": 33065
+      "hash": "035e31ab006655eef3569917bc82b2b81b4b94a58f7d9a33930539d526134c87",
+      "size": 84227
     }
   ]
 }
