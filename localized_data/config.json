@@ -23,5 +23,6 @@
     "character_system_text_dict": "character_system_text_dict.json",
     "race_jikkyo_comment_dict": "race_jikkyo_comment_dict.json",
     "assets_dir": "assets",
-    "localize_dict": "localize_dict.json"
+    "localize_dict": "localize_dict.json",
+    "race_jikkyo_message_dict": "race_jikkyo_message_dict.json"
 }
