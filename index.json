@@ -20,18 +20,18 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "8f7583727b3f732a135b990dab892ed60f4902408ef1c001165f7effde6487e7",
-      "size": 40716
+      "hash": "612869734977fa6ee6e6fb51f02c1c2500384b447b83f3156b21dfb8b78ebf44",
+      "size": 41627
     },
     {
       "path": "config.json",
-      "hash": "a96ae73bd9f5be3354c0429e028427a4ef5917e45ebedcd61f7e5e5b724aaa2d",
-      "size": 708
+      "hash": "999d75fe62b036d3ccef03e8825849fe8044605e5634ddf62c922bca1ba2a7b9",
+      "size": 773
     },
     {
       "path": "localize_dict.json",
-      "hash": "fcb22f42d40355324f007484d61463e0d74685c29eb2a785d038c7ff5fc7abcb",
-      "size": 80322
+      "hash": "35e63afe5defa65e84ca5c31ba9cdae82f4ea32b21f5f101966c7bdf995169db",
+      "size": 108115
     },
     {
       "path": "race_jikkyo_comment_dict.json",
