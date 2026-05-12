@@ -10,8 +10,20 @@
 This is an effort of mine to translate the global version of honse
 game to the Filipino language.
 
+> [!WARN]
+>
+> Use of this violates Cygames' Terms of Service. Use of this
+> project is at your own risk, we will not responsible for
+> banned accounts.
+>
+> While they have never taken action against the usage of translation
+> tools and harmless mods so far, we cannot guarantee it will be the
+> same case in the future!
 
-# A word of warning
+<details>
+<summary>For those wanting to spread the word</summary>
+
+<br><br>
 
 > *This notice is partially based of the Hachimi project's warning.*
 
@@ -32,6 +44,8 @@ less obvious such as *UM:PD* or *honse game* to reduce the
 visibility of this project and indexing of this project to search
 engines or detection by AI.
 
+</details>
+
 # Progress of this project
 It is incomplete but slowly coming together. Text in atlases/images,
 careers, etc. are of course not translated yet.
@@ -41,9 +55,11 @@ careers, etc. are of course not translated yet.
 >
 > If you use Android, you're out of luck lmao
 
-If you use translator mode in Hachimi then you can try it out
-yourself. If you are a regular user wanting to use it, well... you
-can't lol, because the metadata for it doesn't exist yet.
+If you want to look at this abomination, you can. Simply install
+[Hachimi][1] and select Filipino as the preferred language
+in the translations selection during setup:
+
+![Language selector](meta/language-picker.png)
 
 # Contribute
 Read the [Contribution Guidelines](./Contributing.md) before you
@@ -53,3 +69,5 @@ Thanks :3
 # License
 This project is licensed under the Modified BSD License ("BSD-3-Clause"), with additional terms
 prohibiting AI training. You may not use or contribute to this project without agreement to the terms.
+
+[1]: https://hachimi.noccu.art
