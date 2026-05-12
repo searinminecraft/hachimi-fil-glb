@@ -10,9 +10,9 @@
 This is an effort of mine to translate the global version of honse
 game to the Filipino language.
 
-> [!WARN]
+> [!WARNING]
 >
-> Use of this violates Cygames' Terms of Service. Use of this
+> This inherently violates Cygames' Terms of Service. Use of this
 > project is at your own risk, we will not responsible for
 > banned accounts.
 >
