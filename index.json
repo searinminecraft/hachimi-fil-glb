@@ -20,8 +20,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "e551d00bef0f3be7ca803f1b2ee00cf39a2d751e9955dab1e0f79588aaa96863",
-      "size": 48502
+      "hash": "aee67a51894e68f2068a0733e2283cdc7e62c68d0ef9e4c4bfb0a1a3637b656d",
+      "size": 50685
     },
     {
       "path": "config.json",
@@ -30,8 +30,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "35e63afe5defa65e84ca5c31ba9cdae82f4ea32b21f5f101966c7bdf995169db",
-      "size": 108115
+      "hash": "ed6f5298d0913838bce810ab1c7df8589c4efe54d3dfa83573d19de5447f8e69",
+      "size": 110843
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -40,8 +40,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "df120be402636cb604447c5ad52287ae3d34b65e900d8f4b6d499e3e2af3621c",
-      "size": 118445
+      "hash": "a5e2e462f81fc7c6783ae803102a6c40777cf4e5290097b4439a312971ee6c6a",
+      "size": 120628
     }
   ]
 }
