@@ -20,8 +20,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "aee67a51894e68f2068a0733e2283cdc7e62c68d0ef9e4c4bfb0a1a3637b656d",
-      "size": 50685
+      "hash": "927a753ae9a6ab35c017a4121a0492c63a380a3482e94ccd0f03c562123bab94",
+      "size": 50687
     },
     {
       "path": "config.json",
@@ -40,8 +40,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "a5e2e462f81fc7c6783ae803102a6c40777cf4e5290097b4439a312971ee6c6a",
-      "size": 120628
+      "hash": "0465977ebf740349351dbce697718d62fe86bdc8c3b85a9a24c3771c63b29a7d",
+      "size": 120630
     }
   ]
 }
