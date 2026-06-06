@@ -4,6 +4,11 @@
   "zip_dir": "hachimi-fil-glb/localized_data",
   "files": [
     {
+      "path": "LICENSE",
+      "hash": "1b11223ec0da2b8c9b95381a88be1a506412c166fa35af1df422c01d4fabae07",
+      "size": 1641
+    },
+    {
       "path": "assets/lyrics/m1001_lyrics.json",
       "hash": "99e052ab91a0d19e5b58ef3a14f9cc1f09a78d317d1c6f14051610bd7a1ceb47",
       "size": 2382
