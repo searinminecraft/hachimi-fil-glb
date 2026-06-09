@@ -24,5 +24,6 @@
     "race_jikkyo_comment_dict": "race_jikkyo_comment_dict.json",
     "assets_dir": "assets",
     "localize_dict": "localize_dict.json",
+    "hashed_dict": "hashed_dict.json",
     "race_jikkyo_message_dict": "race_jikkyo_message_dict.json"
 }
