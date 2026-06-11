@@ -39,6 +39,16 @@
       "size": 46
     },
     {
+      "path": "icon.png",
+      "hash": "8f068fd7ea773efbf3e2bf4393cca911fe6e16e82bf3f3199d68ccb86b80d267",
+      "size": 201078
+    },
+    {
+      "path": "info.json",
+      "hash": "04c3d590f0ae836510e25849a145a0c27821c1cdda09e76a637fdefca8f95fc7",
+      "size": 434
+    },
+    {
       "path": "localize_dict.json",
       "hash": "c2397bfb03f7191b3a1d1138bb4bc034171cf692305648bee4b8d59eac2ec0c8",
       "size": 139937
