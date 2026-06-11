@@ -1,5 +1,5 @@
 {
-    "ordinal_types": [],
+    "plural_form": "n != 1 && n != 2 && n != 3 && (n % 10 == 4 || n % 10 == 6 || n % 10 == 9)",
     "months": [
         "Enero",
         "Pebrero",
@@ -17,7 +17,7 @@
     "use_text_wrapper": false,
     "auto_adjust_story_clip_length": false,
     "text_common_allow_overflow": false,
-    "now_loading_comic_title_ellipsis": false,
+    "now_loading_comic_title_ellipsis": true,
     "remove_ruby": false,
     "text_data_dict": "text_data_dict.json",
     "character_system_text_dict": "character_system_text_dict.json",
