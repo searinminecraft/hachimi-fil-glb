@@ -597,5 +597,11 @@
         "500005": "Masisiyahan ka sa pakikipagkarera kasama ang ibang mga trainer sa pamamagitan ng paglalagay ng Race ID!",
         "500006": "Maaari kang magpasok ng hanggang tatlong mananakbo sa isang Room Match na karera!",
         "500007": "Maaari kang mag-save ng mga resulta ng hanggang limang Room Match na karera!"
+    },
+    "9002": {
+        "300000": "Atensyon! Misyon ito!",
+        "300001": "Tapos na ang misyon! Huwag kalimutang kunin ang iyong mga reward!",
+        "300002": "Mahalaga! May mga available na espesyal na misyon!",
+        "700002": "Huwag kalimutang ipagpalit ang iyong Test Coins!"
     }
 }
