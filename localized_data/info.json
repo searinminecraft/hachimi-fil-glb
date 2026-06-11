@@ -1,0 +1,12 @@
+{
+  "name": "Filipino",
+  "description": "Pagsasaling Filipino para sa Umamusume: Pretty Derby (Global). Work in progress, contributors are welcome :3",
+  "changelog_url": "https://umafil.vyxie.maid.zone/CHANGELOG.md",
+  "homepage": "https://codeberg.org/kita/hachimi-fil-glb",
+  "links": [
+    ["GitHub", "https://github.com/searinminecraft/hachimi-fil-glb"]
+  ],
+  "maintainer": "Vyxie",
+  "contributors": [],
+  "language": "fil"
+}
