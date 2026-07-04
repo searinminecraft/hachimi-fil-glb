@@ -219,10 +219,10 @@
         "105901": "[Lagpas sa Linya]",
         "106002": "[Tumakbo at Manalo]",
         "106101": "[Hari ng Esmeralda]",
-        "106102": "[Cheerleader sa Marangal na Puti]",
+        "106102": "$(nb)[Cheerleader sa Marangal na Puti]",
         "103001": "[Mabulaklak na Pangarap]",
         "106701": "[Natural na Kinang]",
-        "106801": "$(scale 80)[Ginintuang Dambana tungo sa Kaluwalhatian]",
+        "106801": "$(nb)$(scale 80)[Ginintuang Dambana sa Kaluwalhatian]",
         "106901": "[Lakas sa Buong Pamumulaklak]",
         "9100101": "[Espesyal na Mangarapin]",
         "9101101": "[Nakakatuksok-batong Asul]",
@@ -1354,7 +1354,7 @@
     "120": {
         "1": "Idineklara ni Direktor Akikawa ang pagtatatag ng isang bagong\npaligsahan, ang <color=#FF6D26>URA Finale</color>! Kailangang magtulungan ang mga\ntrainer at trainee kung gusto nilang makoronahan bilang unang kampeon ng URA!",
         "2": "Samahan ang koponan! Kabataan! Ang bagong buhay na <color=#FF6D26>Unity Cup</color> ay\ntumatawag! Ngunit walang gaanong oras para sa kasiyahan—nanganganib\nang akademya! Kung ang Tracen ay mananatiling isang malayang paaralan,\ndapat magsama-sama ang matatapang na tao at makuha ang tagumpay!",
-        "4": "Itinatag ng media ang isang bagong contest upang alamin\nang pinkamahusay na mananakbo: ang <color=#FF6D26>Twinkle Star Climax</color>.\nSundin ang iyong mga pangarap—hindi mo alam kung saang track ka nilang dadalhin\npababa!"
+        "4": "Itinatag ng media ang isang bagong contest upang alamin\nang pinkamahusay na mananakbo: ang <color=#FF6D26>Twinkle Star Climax</color>.\nSundin ang iyong mga pangarap—hindi mo alam kung saang track ka nilang dadalhin pababa!"
     },
     "121": {
         "3": "Nagsisimula",
@@ -1637,7 +1637,7 @@
         "1023": "Isang maalab na intelektuwal. Lohika ang kanyang sandata!",
         "1024": "Para siyang mabait mong nakababatang kapatid. Excited na siyang lumaki!",
         "1025": "Palaging hinahabol ang mga anino... Medyong misteryosong Umamusume.",
-        "1026": "$(scale 90) Palaging sinusundan ang mga utos! Ang clanker na Umamusume."
+        "1026": "$(scale 90)Palaging sinusundan ang mga utos! Ang clanker na Umamusume."
     },
     "394": {
         "4": "Pagkakaibigan kay {0} <color=#FF6D26>+{1}</color>",
