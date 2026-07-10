@@ -1,0 +1,150 @@
+{
+    "title": "Ito si Haru Urara!",
+    "text_block_list": [
+        {
+            "text": "Ito ang araw kung saan magsisimula<n>\nna si Haru Urara para sa pagsasanay<n>\npara sa Twinkle Series.",
+            "color_text_info_list": [
+                "Haru Urara",
+                "Twinkle Series"
+            ]
+        },
+        {
+            "text": "Pinipilit niyang makuha ang unang pwesto.<n>\nAt makikita rito kung gaano siya kasigasig."
+        },
+        {
+            "text": "Kahit papaano, iyon ang naisip ko.<n>\nGayunpaman..."
+        },
+        {
+            "text": "Ah, ikaw pala, Trainer! Ikinagagalak<n>\nkong simulan ang pagsasanay kasama ka!",
+            "choice_data_list": [
+                "Ibigay natin ang makakaya!",
+                "Ibigay natin ang makakaya!"
+            ]
+        },
+        {
+            "text": "Oo! Magaling ako sa paggawa ng aking<n>\nmakakaya! Wala kang dapat alalahanin!",
+            "choice_data_list": [
+                "Sige, magsimula na tayo!",
+                "Sige, magsimula na tayo!"
+            ]
+        },
+        {
+            "text": "Sige! Handa na akong tumakbo!"
+        },
+        {
+            "text": "Hup, hup, hup! Phew... Isang lap<n>\nna yan.",
+            "choice_data_list": [
+                "Mahusay, isa pa!"
+            ]
+        },
+        {
+            "text": "Sige!"
+        },
+        {
+            "text": "Aaaaah!",
+            "choice_data_list": [
+                "Bakit?!",
+                "Bakit?!"
+            ]
+        },
+        {
+            "text": "Isang paruparo! Napakaganda nito!"
+        },
+        {
+            "text": "Tignan mo! Lumilipad na to patungo sa<n>\nmga damo doon!"
+        },
+        {
+            "text": "Uy, saan ka pupunta! Wag mo akong<n>\niwanan!"
+        },
+        {
+            "text": "Tumakbo si Haru Urara. Iniisip ko na<n>\nhabulin ko siya, pero iniisip ko kung bahagi<n>\nito ng kanyang plano sa pagsasanay."
+        },
+        {
+            "text": "Nagpasya ako na pagkatiwalaan siya at<n>\nmaghintay hanggang sa bumalik siya..."
+        },
+        {
+            "text": "...Pero hindi siya bumalik! Baka may<n>\nnangyari. Kailangan ko siyang hanapin!"
+        },
+        {
+            "text": "(Wala siya rito...)"
+        },
+        {
+            "text": "(O dito...)"
+        },
+        {
+            "text": "(O dito!)"
+        },
+        {
+            "text": "Hinanap ko siya halos kahit saan,<n>\nhanggang sa..."
+        },
+        {
+            "text": "<i>Phew...</i> Pagod na ako! Oras na para<n>\nmagpahinga!"
+        },
+        {
+            "text": "Nahanap ko na si Haru Urara! Pero<n>\nnarumihan na siya tuluyan...\nAnong nangyari dito?!",
+            "choice_data_list": []
+        },
+        {},
+        {
+            "text": "Oh, maglalaro ka rin ba ng tag kasama<n>\nsina Mr. Fish?",
+            "choice_data_list": [
+                "...Ano?"
+            ]
+        },
+        {
+            "text": "Ano?"
+        },
+        {
+            "text": "Hiniling ko sa kanya na magpaliwanag.<n>\nMukhang pagkatapos niyang habulin ang<n>\nparuparo, nahanap niya ang sarili niya sa<n>\nilog at nagsimulang maglaro ng tag<n>\nkasama ang isda."
+        },
+        {
+            "text": "Di ko talaga maintindihan, pero baka<n>\nbahagi ito ng isang kakaibang pagsasanay<n>\nsa kanyang rehimen?"
+        },
+        {
+            "text": "Sa totoo lang, sa tingin ko natagpuan ko na<n>\nang hari ng ilog! At malapit ko na siyang<n>\nmakuha!"
+        },
+        {
+            "text": "...Huwag na nga. Nagtatanga lang siya.",
+            "choice_data_list": [
+                "<size=30>Kaya, ano kaya kung bumalik na tayo sa pagsasanay?</size>"
+            ]
+        },
+        {
+            "text": "Huh? Pero ginawa ko na, di ba?"
+        },
+        {
+            "text": "Oo, nagawa ko... Pero nagawa ko ba?"
+        },
+        {
+            "text": "AH! Nakakita ako ng malaking isda! Baka<n>\nito ang <i>hari</i> ng ilog! Hanapin natin!",
+            "choice_data_list": [
+                "Di mo ba gusto ang first place?",
+                "Di mo ba gusto ang first place?"
+            ]
+        },
+        {
+            "text": "Oo! Napakasaya kapag makapunta ako sa<n>\nfirst place!"
+        },
+        {
+            "text": "Gusto ko talagang tumakbo nang marami<n>\nat magsaya!"
+        },
+        {
+            "text": "Kaya naman ikaw ang naging trainer ko,<n>\ndi ba? Tutulungan mo ako na makamit ito!"
+        },
+        {
+            "text": "Kaya gagawin ko ang makakaya ko!"
+        },
+        {
+            "text": "Mukhang gusto talaga ni Haru Urara na<n>\nmagawa ang kanyang makakaya. Basta <n>\nmay ganito siyang kaisipan, sigurado ako<n>\nna makakamit niya ang kanyang pangarap na<n>\nmakakuha ng first place. Pero..."
+        },
+        {
+            "text": "Ooh! Mukhang isang karot ang ulap na<n>\niyan! Ang sarap! Hintayin mo ako!"
+        },
+        {
+            "text": "...Una sa lahat, kailangan ko siyang pagtuunan<n>\nng pansin sa kanyang pagsasanay.<n>\nPagkatapos ay iisipin ko kung ano ang<n>\nsusunod na mangyayari."
+        },
+        {
+            "text": "Sa anumang kaso, magsisimula na ngayon<n>\nang pagsasanay ni Haru Urara!"
+        }
+    ]
+}

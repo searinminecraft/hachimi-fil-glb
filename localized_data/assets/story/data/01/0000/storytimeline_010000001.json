@@ -1,0 +1,21 @@
+{
+    "text_block_list": [
+        {
+            "text": "Isang araw sa Tokyo Racecourse..."
+        },
+        {
+            "name": "???",
+            "text": "Uy, bagong trainer! Dito ako!"
+        },
+        {},
+        {
+            "text": "Sige, hayaan mo akong makilala ang\nsarili ko"
+        },
+        {
+            "text": "Ako sina Tazuna Hayakawa, ang\nsecretary ng direktor, at ako ang magiging\ntour guide niyo ngayon.",
+            "choice_data_list": [
+                "Salamat sa pagsama mo sa akin."
+            ]
+        }
+    ]
+}
