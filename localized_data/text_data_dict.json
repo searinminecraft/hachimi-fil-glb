@@ -1805,7 +1805,7 @@
     },
     "394": {
         "4": "Pagkakaibigan kay {0} <color=#FF6D26>+{1}</color>",
-        "5": "Pagkakaibigan kay {0} <color=#FF6D26>+{1}</color>\n(Hindi magbabago ang pakikipagkaibigan sa mga Support Card na hindi nasa deck mo)",
+        "5": "Pagkakaibigan kay {0} <color=#FF6D26>+{1}</color>\n(Hindi magbabago ang pakikipagkaibigan sa mga Support Card\nna hindi nasa deck mo)",
         "7": "<color=#FF6D26>Makuha</color>",
         "8": "May pagkakataon na <color=#FF6D26>makakauha</color> ng random na kasanayan",
         "10": "<color=#FF6D26>Ginagaling ang</color> {0}",

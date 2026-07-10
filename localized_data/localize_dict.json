@@ -2059,7 +2059,7 @@
     "SingleMode0225": "Sa {0} turno",
     "SingleMode0226": "Iskedyul",
     "SingleMode0227": "Naiskedyul",
-    "SingleMode0232": "Naabot ang pamantayan sa pagpasok!",
+    "SingleMode0232": "$(nb)Naabot ang pamantayan sa pagpasok!",
     "SingleMode0233": "Sa {0}, makapunta sa top {2} {1} beses",
     "SingleMode0235": "Makakuha ng {0} tagahanga",
     "SingleMode0236": "Makakuha ng first place {1} beses sa {0}",
@@ -2150,7 +2150,7 @@
     "SingleMode0425": "<atlas=PreIn sprite=utx_ico_notice_00/>{0} turno hanggang sa deadline ng hamon.",
     "SingleMode0426": "Hindi Naabot ang Hamon",
     "SingleMode0427": "Hindi mo pa naabot ang kinakailangang target para sa mga hinahamong karera. Subukang makapunta sa top {2} sa {1} karera {0} beses.",
-    "SingleMode0428": "Gumamit ng orasang pang-alarma para bigyan ng isa pang pagkakataon ang iyong trainee?",
+    "SingleMode0428": "Gumamit ng orasang pang-alarma para bigyan ng isa pang\npagkakataon ang iyong trainee?",
     "SingleMode0429": "- Ang mga bracket ay muling itatalaga.",
     "SingleMode0430": "- Pansamantalang magiging mabuti ang kanyang kalooban.",
     "SingleMode0431": "Kapag Mahusay na ang kanyang kalooban, hindi na ito mapapabuti pa.",
@@ -2673,7 +2673,7 @@
     "SingleModeScenarioTeamRace400102": "- Maaari kang pumili ng bagong kalaban.",
     "SingleModeScenarioTeamRace400103": "- Tataas nang isang ranggo ang kalooban ng ace ng koponan para sa susunod na karera.",
     "SingleModeScenarioTeamRace400104": "Dakilang Putok ng Kaluluwa",
-    "SingleModeScenarioTeamRace400105": "Pagbabago ng Ranggo",
+    "SingleModeScenarioTeamRace400105": "$(nb)Pagbabago ng Ranggo",
     "SingleModeScenarioTeamRace4230094": "Sa <color=#ff6d26>{0} pagkapanalo</color>, <color=#2e85e6>{1} pagkatalo</color>, at <color=#929e8a>{2} draw</color>, nalalo ang iyong koponan. <color=#ff6d26>Naging rank {3}.</color>",
     "SingleModeScenarioTeamRace4230095": "Sa <color=#ff6d26>{0} pagkapanalo</color>, <color=#2e85e6>{1} pagkatalo</color>, at <color=#929e8a>{2} draw</color>, natalo ang iyong koponan. <color=#ff6d26>Naging rank {3}.</color>",
     "SingleModeScenarioTeamRace4230096": "{0} resulta",
@@ -2690,5 +2690,9 @@
     "SingleModeScenarioTeamRace425006": "Putok ng Kaluluwa",
     "SingleModeScenarioTeamRace425008": "Mga Putok ng Kaluluwa",
     "SingleModeScenarioTeamRace425009": "May mga bagong miyembro na sumali sa iyong koponan!",
-    "SingleModeScenarioTeamRace425007": "Mga Pagkakaisang Pagsasanay"
+    "SingleModeScenarioTeamRace425007": "Mga Pagkakaisang Pagsasanay",
+    "SingleModeScenarioFree425009": "<color=#ff911c>Hindi matatapos</color> ang Career kahit hindi ka umulit sa natalong karera.",
+    "Race0075": "Magkarera",
+    "CustomRace0003": "Listahan ng Karera",
+    "Race0392": "Susunod"
 }
