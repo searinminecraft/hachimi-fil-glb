@@ -1,3 +1,4 @@
 {
-    "zokuzoku.enabled": true
+    "zokuzoku.enabled": true,
+    "zokuzoku.decryption.metaKey": "c753a5e8f5f78294f7fef57df4a14ffbf9a896cea1d4e09947e0d904e7fde8eaf0"
 }
