@@ -1823,7 +1823,7 @@
         "11": "<color=#FF6D26>I-unlock ang pag-outing kasama si</color> {0}",
         "12": "Tapusin ang chain event",
         "13": "<color=#FF6D26>+{0}</color> lahat ng  attribute",
-        "14": "<color=#FF6D26>+{1}</color> {0} (mga) random na attributes",
+        "14": "<color=#FF6D26>+{1}</color> $(plural {0} '$' '$ (na)') random na attributes",
         "15": "<color=#FF6D26>Ginagaling ang lahat ng mga masamang kundisyon</color>",
         "16": "<color=#FF6D26>Random na ginagaling ang $(plural {0} '$' '$ (na)') masamang kundisyon</color>",
         "17": "<color=#2E85E6>Pahigpitan</color> ang pagsasanay sa {0}",
@@ -1840,7 +1840,7 @@
         "38": "{0} <color=#2E85E6>+{1}</color>\n(Pinipigil ng {2})",
         "35": "Pagkakaibigan kay {0} <color=#2E85E6>-{1}</color>",
         "36": "Pagkakaibigan kay {0} <color=#2E85E6>-{1}</color>\n(Hindi magbabago ang pakikipagkaibigan sa mga Support Card\nna hindi nasa deck mo)",
-        "34": "Random na $(ord {0} '$' '$ (na)') attribute <color=#2E85E6>-{1}</color>"
+        "34": "Random na $(plural {0} '$' '$ (na)') attribute <color=#2E85E6>-{1}</color>"
     },
     "157": {
         "1001": "Mayo 1",
