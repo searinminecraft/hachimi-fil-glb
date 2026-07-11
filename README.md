@@ -66,8 +66,32 @@ Read the [Contribution Guidelines](./Contributing.md) before you
 spend all your blood, sweat and tears contributing to this project.
 Thanks :3
 
-# License
-This project is licensed under the Modified BSD License ("BSD-3-Clause"), with additional terms
-prohibiting AI training. You may not use or contribute to this project without agreement to the terms.
+# License and Data Usage
+
+Copyright (c) 2026 Vyxie and the Filipino Hachimi Translation Project
+(UmaFIL) contributors.
+
+All rights reserved.
+
+Unless otherwise noted, all content in this repository is licensed
+under a modified version of the 3-Clause BSD License, with modifications
+that explicitly prohibit the usage of all data (including but not limited
+to texts, images,atlases, source code and other assets) for Large Language
+Model training, generative AI and any similar activity.
+
+You are free to use the data and translations for any purpose (such
+as website frontends, community projects, data repositories,
+commentaries, derivatives and the like), provided that you provide clear
+attribution, license and copyright notices as well as warranty
+disclaimers (which is mandated by the original 3-Clause BSD License)
+and not use the data for anything that involves AI or Large Language
+Model training.
+
+You might say that this may be way too strict, to the point it might
+not be an open license anymore, but this is to protect the rights
+and integrity of this project.
+
+All original assets and texts are under the copyright of Cygames, Inc.
+Cygames and Umamusume are (registered) trademarks of Cygames, Inc.
 
 [1]: https://hachimi.noccu.art
