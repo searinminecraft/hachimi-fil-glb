@@ -5,8 +5,8 @@
   "files": [
     {
       "path": "LICENSE",
-      "hash": "1b11223ec0da2b8c9b95381a88be1a506412c166fa35af1df422c01d4fabae07",
-      "size": 1641
+      "hash": "ed568c926b7e19f8f132863288eea9f4e62510993422cdabce5f511c7bad6e26",
+      "size": 1711
     },
     {
       "path": "assets/lyrics/m1001_lyrics.json",
@@ -70,8 +70,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "76d0b49e68745efba0404c2fac562ca2b07ec070830f21dc080b78eb36b7f189",
-      "size": 173237
+      "hash": "b48b881299ed0cdedf5eeeb3119800ff50cfc33fb6820c2c934b99124cedfc04",
+      "size": 204701
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -85,8 +85,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "c78a34bb70583b1ec1b70658c17651a1077da5dcb80f5235b914551cb09fa7eb",
-      "size": 167162
+      "hash": "1d4a6bc71f367fbadf9c0b8dd1d3ae1028e20f04bc5672b5417c06c5cf0ed214",
+      "size": 167161
     }
   ]
 }
