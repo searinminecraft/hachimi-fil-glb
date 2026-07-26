@@ -1,1 +1,3 @@
 venv
+localized_data/assets/atlas/**/*.png
+!localized_data/assets/atlas/**/*.diff.png
