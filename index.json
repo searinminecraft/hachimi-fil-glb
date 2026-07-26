@@ -9,6 +9,31 @@
       "size": 1711
     },
     {
+      "path": "assets/atlas/common/common.diff.png",
+      "hash": "26602c655bfd9eea58cfc3d36ad7a06bd6828b915031ffa98653184c0e17f2a6",
+      "size": 41815
+    },
+    {
+      "path": "assets/atlas/home/home.diff.png",
+      "hash": "3f22fa6327ff53dac02716cff9a8d29e729485f0fb22bce920132715070de5b6",
+      "size": 50100
+    },
+    {
+      "path": "assets/atlas/single/single.diff.png",
+      "hash": "9c72e2fc735a3382db7972c1b75cf5374f7165dbe5dfb76c43e6455c315fd44a",
+      "size": 103648
+    },
+    {
+      "path": "assets/atlas/singleresult/singleresult.diff.png",
+      "hash": "cfe4c1954f9e2254feea5db55d6796efec21c11dbc022a5be45d60c54207bd0d",
+      "size": 19384
+    },
+    {
+      "path": "assets/atlas/singlestart/singlestart.diff.png",
+      "hash": "e8bdebba929da8ffea87cf7ae0d486be1f8cbad1de2a0f4deb74ac57656b3f46",
+      "size": 9074
+    },
+    {
       "path": "assets/lyrics/m1001_lyrics.json",
       "hash": "99e052ab91a0d19e5b58ef3a14f9cc1f09a78d317d1c6f14051610bd7a1ceb47",
       "size": 2382
