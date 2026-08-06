@@ -7,6 +7,8 @@
 # Fan-made Filipino Translations for Honse Game (Global)
 </div>
 
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/g7u8CQtHph)](https://discord.gg/g7u8CQtHph)
+
 This is an effort of mine to translate the global version of honse
 game to the Filipino language.
 
