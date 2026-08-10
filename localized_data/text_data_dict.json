@@ -1537,7 +1537,8 @@
     "120": {
         "1": "Idineklara ni Direktor Akikawa ang pagtatatag ng isang bagong\npaligsahan, ang <color=#FF6D26>URA Finale</color>! Kailangang magtulungan ang mga\ntrainer at trainee kung gusto nilang makoronahan bilang unang kampeon ng URA!",
         "2": "Samahan ang koponan! Kabataan! Ang bagong buhay na <color=#FF6D26>Unity Cup</color> ay\ntumatawag! Ngunit walang gaanong oras para sa kasiyahan—nanganganib\nang akademya! Kung ang Tracen ay mananatiling isang malayang paaralan,\ndapat magsama-sama ang matatapang na tao at makuha ang tagumpay!",
-        "4": "Itinatag ng media ang isang bagong contest upang alamin\nang pinkamahusay na mananakbo: ang <color=#FF6D26>Twinkle Star Climax</color>.\nSundin ang iyong mga pangarap—hindi mo alam kung saang track ka nilang dadalhin pababa!"
+        "4": "Itinatag ng media ang isang bagong contest upang alamin\nang pinkamahusay na mananakbo: ang <color=#FF6D26>Twinkle Star Climax</color>.\nSundin ang iyong mga pangarap—hindi mo alam kung saang track ka nilang dadalhin pababa!",
+        "3": "Bakit nga ba kumakanta ang Umamusume para sa kanilang tagahanga? Inimumukahi ng isang tagaplano ng kaganapan ang muling pag-aalab ng <color=#ff6d26>Grand Live</color>—nagbibigay-inspirasyon\nsa mga mananakbo para hanapin kung ano talaga ang kahulugan ng pagganap ara sa kanila!"
     },
     "121": {
         "3": "Nagsisimula",
@@ -2698,6 +2699,7 @@
         "965": "Inaayos ang Feature",
         "967": "Inaayos ang Feature",
         "338": "Paghigpit sa Pagbili ng Carats",
-        "101": "Nasa-ilalim ng Pagaayos"
+        "101": "Nasa-ilalim ng Pagaayos",
+        "1503": "Nagbago ang Petsa"
     }
 }
